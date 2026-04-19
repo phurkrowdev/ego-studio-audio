@@ -1,27 +1,52 @@
 # E.G.O. Studio Audio
 
-A production-ready full-stack system for building file-processing and AI-powered tools.
+Stop rebuilding the same backend every time you start a new idea.
 
-## What it is
+This is a production-ready full-stack system for building file-processing and AI-powered tools — already wired, already deployable.
 
-- React frontend (Vite)
+---
+
+## What you skip
+
+- weeks setting up auth, API structure, and storage
+- wiring file uploads + job processing
+- figuring out deployment (Docker, environments, etc.)
+
+---
+
+## What you get
+
+- React (Vite) frontend
 - Express + tRPC backend
 - File upload + job pipeline
 - S3-compatible storage
 - Docker deployment
 - Full test suite
 
-## Why it exists
+---
 
-Skip weeks of backend setup and start building your actual product.
-
-## Use cases
+## Build things like
 
 - AI pipelines
-- Media processing tools
-- File transformation services
+- media processing tools
+- file transformation services
+
+---
 
 ## Get access
 
 Serious beta:
 https://phurkrow.gumroad.com/l/dqqkb
+
+---
+
+## Status
+
+This is an early beta release.
+
+You're getting:
+- the full working system
+- ongoing updates
+- direct influence on direction
+
+Expect rough edges.
